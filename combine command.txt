@@ -1,0 +1,1 @@
+Get-Content *.html, *.css, *.js | Out-File combined.txt
